@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large datasets
+data/sales_train_validation.csv
+data/sell_prices.csv
